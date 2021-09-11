@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;500&display=swap');
+
+* {
+    font-family: 'Public Sans', sans-serif !important;
+}
+
+a {
+    text-decoration: none !important;
+    color: hsl(233, 26%, 24%);
+}
+
+p {
+    
+    color: hsl(233, 8%, 62%) !important;
+    font-size: 15px !important;
+}
+
+small {
+    color: hsl(233, 8%, 62%) !important;
+    font-size: 10px !important;
+}
+
+h5 {
+    font-size: 15px !important;
+}
+
+.background-image-cellphones {
+    width: 375px;
+    height: 423px;
+    background-image: url(../images/bg-intro-mobile.svg);
+    background-size: cover;
+}
+
+.txt-color {
+    color: hsl(233, 26%, 24%);
+}
+
+.pill-bg-gradient {
+    background-image: linear-gradient(to right, hsl(136, 65%, 51%), hsl(192, 70%, 51%)) !important;
+}
+
+.bg-lighter {
+    background-color: hsl(0, 0%, 98%)
+}
+
+.card-p {
+    font-size: 11px !important;
+}
+
+.bg-custom {
+    background-color: hsl(233, 26%, 24%);
+}
+
+.footer-logo {
+    width: 170px;
+}
+
+.footer-link-color {
+    color: hsl(233, 8%, 62%) !important;
+}
